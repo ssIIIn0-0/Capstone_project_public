@@ -1,1 +1,1 @@
-# Capstone_project_public
+# Capstone project (공개용)
