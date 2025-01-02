@@ -10,7 +10,7 @@
 - 개발기간 : 2023.03.28 ~ 2023.06.05
 - 프로젝트 팀원 : 송종빈, 김명학, 이도희, 박시은
 - 개발 도구 : visual studio, github
-- 기술 스택 : Python, Flask
+- 기술 스택 : Python, Flask, OpenAI API (GPT3.5)
 - 플랫폼 : PC, 모바일
 
 
