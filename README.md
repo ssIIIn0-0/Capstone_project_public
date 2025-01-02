@@ -1,7 +1,7 @@
 # Capstone project (공개용)
 
 ## 프로젝트 소개
-산업체 DNX의 고령자용 앱(순이) 생방송 대본의 AI 자동 제작 프로젝트(Open AI API 활용)
+산업체 DNX의 고령자용 앱(순이) 생방송 대본의 AI 자동 제작 프로젝트(GPT3.5 API 활용)
 ![image](https://github.com/user-attachments/assets/cb70e279-3c50-4a28-adf9-68e117d4e04d)
 
 
